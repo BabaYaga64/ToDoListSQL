@@ -6,9 +6,9 @@
 
 ##### Description
 
-Allows users to input categories and then enter tasks to add to those categories.
+Allows users to input categories and then enter tasks to add to those categories. This is a one to many relationship between the two tables in the database. 
 
-##### Technologies
+##### Technologies Used
 
 * PHP
 * PHPUnit
